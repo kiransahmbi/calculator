@@ -1,0 +1,11 @@
+C:\Users\kiran\Documents\Cenntennial\COMP123\GUIAdvancedCalculator\GUIAdvancedCalculator\bin\Debug\GUIAdvancedCalculator.exe.config
+C:\Users\kiran\Documents\Cenntennial\COMP123\GUIAdvancedCalculator\GUIAdvancedCalculator\bin\Debug\GUIAdvancedCalculator.exe
+C:\Users\kiran\Documents\Cenntennial\COMP123\GUIAdvancedCalculator\GUIAdvancedCalculator\bin\Debug\GUIAdvancedCalculator.pdb
+C:\Users\kiran\Documents\Cenntennial\COMP123\GUIAdvancedCalculator\GUIAdvancedCalculator\obj\Debug\GUIAdvancedCalculator.csproj.AssemblyReference.cache
+C:\Users\kiran\Documents\Cenntennial\COMP123\GUIAdvancedCalculator\GUIAdvancedCalculator\obj\Debug\GUIAdvancedCalculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\kiran\Documents\Cenntennial\COMP123\GUIAdvancedCalculator\GUIAdvancedCalculator\obj\Debug\GUIAdvancedCalculator.Form1.resources
+C:\Users\kiran\Documents\Cenntennial\COMP123\GUIAdvancedCalculator\GUIAdvancedCalculator\obj\Debug\GUIAdvancedCalculator.Properties.Resources.resources
+C:\Users\kiran\Documents\Cenntennial\COMP123\GUIAdvancedCalculator\GUIAdvancedCalculator\obj\Debug\GUIAdvancedCalculator.csproj.GenerateResource.cache
+C:\Users\kiran\Documents\Cenntennial\COMP123\GUIAdvancedCalculator\GUIAdvancedCalculator\obj\Debug\GUIAdvancedCalculator.csproj.CoreCompileInputs.cache
+C:\Users\kiran\Documents\Cenntennial\COMP123\GUIAdvancedCalculator\GUIAdvancedCalculator\obj\Debug\GUIAdvancedCalculator.exe
+C:\Users\kiran\Documents\Cenntennial\COMP123\GUIAdvancedCalculator\GUIAdvancedCalculator\obj\Debug\GUIAdvancedCalculator.pdb
